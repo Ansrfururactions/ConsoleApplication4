@@ -34,6 +34,7 @@ int main()
 	}
 
 	cout << "days" << day << endl;
+    }
 
 
 }
